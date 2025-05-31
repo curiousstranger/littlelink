@@ -433,6 +433,13 @@
 	--button-background:#FF4500;
 }
 
+/* serializd */
+.button-serializd {
+    --button-text: #43bca5;
+    --button-background: #000000;
+    --button-border: 1px solid #FFFFFF;
+}
+
 /* Shop */
 .button-shop {
 	--button-text:#ffffff;
